@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Bem Ali Kaya</h1>
+<h1 align="center">Merhaba 👋, Ben Ali Kaya</h1>
 <h3 align="center">Bilgisayar Programcılığı Açık Öğretim Öğrencisiyim.</h3>
 
 - 🔭 Şu anda üzerinde çalışıyorum [Araba Kiralama Projesi](https://github.com/CanKaya4/RentCar)
