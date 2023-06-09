@@ -1,15 +1,15 @@
 <h1 align="center">Merhaba 👋, Bem Ali Kaya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Bilgisayar Programcılığı Açık Öğretim Öğrencisiyim.</h3>
 
-- 🔭 I’m currently working on [Araba Kiralama Projesi](https://github.com/CanKaya4/RentCar)
+- 🔭 Şu anda üzerinde çalışıyorum [Araba Kiralama Projesi](https://github.com/CanKaya4/RentCar)
 
-- 🌱 I’m currently learning **Asp.Net, Angular, NodeJs**
+- 🌱 Şuan da Öğrendiklerim **Asp.Net, Angular, NodeJs**
 
-- 👯 I’m looking to collaborate on [E-Ticaret Projesi](https://github.com/CanKaya4/MyFinalProject)
+- 👯 Şu anda üzerinde çalışıyorum [E-Ticaret Projesi](https://github.com/CanKaya4/MyFinalProject)
 
-- 🤝 I’m looking for help with [Python Bot Projesi](https://github.com/CanKaya4/PythonApplication)
+- 🤝 Bitirdiğim Proje [Python Bot Projesi](https://github.com/CanKaya4/PythonApplication)
 
-- 📫 How to reach me **alikaya4275@gmail.com**
+- 📫 Bana Ulaşabilirsiniz. **alikaya4275@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
